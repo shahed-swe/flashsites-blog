@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Helvetica,Arial,sans-serif">
+<rect width="1200" height="630" fill="#0b1020"/>
+<text x="60" y="90" font-size="40" font-weight="700" fill="#fff">Six modules, zero theme changes</text>
+<g font-size="28" font-weight="700" fill="#fff" text-anchor="middle">
+<rect x="60" y="150" width="340" height="190" rx="16" fill="#1b2748"/><text x="230" y="230">Smart caching</text><text x="230" y="275" font-size="20" font-weight="400" fill="#9fb0d0">served from the edge</text>
+<rect x="430" y="150" width="340" height="190" rx="16" fill="#1b2748"/><text x="600" y="230">Image optimization</text><text x="600" y="275" font-size="20" font-weight="400" fill="#9fb0d0">modern formats</text>
+<rect x="800" y="150" width="340" height="190" rx="16" fill="#1b2748"/><text x="970" y="230">Lazy loading</text><text x="970" y="275" font-size="20" font-weight="400" fill="#9fb0d0">images, video, iframes</text>
+<rect x="60" y="380" width="340" height="190" rx="16" fill="#1b2748"/><text x="230" y="460">Smart prefetching</text><text x="230" y="505" font-size="20" font-weight="400" fill="#9fb0d0">next page ready early</text>
+<rect x="430" y="380" width="340" height="190" rx="16" fill="#1b2748"/><text x="600" y="460">Third-party tuning</text><text x="600" y="505" font-size="20" font-weight="400" fill="#9fb0d0">external scripts tamed</text>
+<rect x="800" y="380" width="340" height="190" rx="16" fill="#1b2748"/><text x="970" y="460">Load order</text><text x="970" y="505" font-size="20" font-weight="400" fill="#9fb0d0">critical media first</text>
+</g>
+<g fill="#ffc400"><rect x="60" y="150" width="340" height="6" rx="3"/><rect x="430" y="150" width="340" height="6" rx="3"/><rect x="800" y="150" width="340" height="6" rx="3"/><rect x="60" y="380" width="340" height="6" rx="3"/><rect x="430" y="380" width="340" height="6" rx="3"/><rect x="800" y="380" width="340" height="6" rx="3"/></g>
+</svg>
